@@ -57,11 +57,15 @@ Blue Bus is a comprehensive MERN Stack web application for booking bus tickets. 
 
 <img width="946" alt="image" src="https://github.com/DivyangJoshi1/EasyBus/assets/99973206/2e075224-785b-4003-a085-d9643d5e7c88">
 
+![image](https://github.com/DivyangJoshi1/EasyBus/assets/99973206/ee9c9943-caf6-4866-aada-90bd9d0a2494)
 
-![Bus Listing](path/to/buslisting/screenshot)
-![Ticket Booking](path/to/ticketbooking/screenshot)
-![Payment](path/to/payment/screenshot)
-![Booked Ticket](path/to/bookedticket/screenshot)
+![image](https://github.com/DivyangJoshi1/EasyBus/assets/99973206/00296982-ab5e-4465-a030-c0d4dc57c272)
+
+![image](https://github.com/DivyangJoshi1/EasyBus/assets/99973206/44a3ad2c-b788-4f7a-b62a-be808171bc40)
+
+![image](https://github.com/DivyangJoshi1/EasyBus/assets/99973206/618443f9-2de1-4b93-8e7e-ebef37d72b93)
+
+![image](https://github.com/DivyangJoshi1/EasyBus/assets/99973206/c1f271ed-46a5-4489-b01e-045bb197795a)
 
 ## Contributing
 
